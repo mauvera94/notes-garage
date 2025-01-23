@@ -1,0 +1,14 @@
+
+*.json
+.DS_Store
+.gitattributes
+*.zip
+*.svg
+*.js
+*.css
+*.bin
+*.gz
+*.png
+Chats/New Chat.md
+Clippings/URI or URL Schemes - Leah Ferguson.md
+templates/Note Template.md
