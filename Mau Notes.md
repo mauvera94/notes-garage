@@ -19,4 +19,4 @@ Start wherever you’d like! Explore topics or fall into the rabbit hole by clic
 
 ---
 
-[[All the boring stuff|Disclaimers]]
+[[Disclaimer|Disclaimers]]

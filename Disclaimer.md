@@ -9,7 +9,7 @@ description:
 
 I regularly feature excerpts from other creators, acknowledging that we stand on the shoulders of giants. These collections serve as personal working notes. If you, as a copyright holder, believe that your rights have been violated, please [contact me](https://www.cafecuriosity.com/contact). Will promptly address the issue by either removing the link or revising the content.
 
-Additionally, I personally believe in the free flow of ideas. Consequently, all my original content on this site is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+I firmly believe in the free flow of ideas, and none of this would be possible without the contributions of those who came before me. As such, all original content on this site is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 **Legal Disclaimer**
 
