@@ -1,8 +1,9 @@
 ---
 title: Code Blocks - Obsidian
-created: '2025-51-3'
+created: 2025-51-3
 modification: 2025-01-01 19:08
-description:
+description: 
+updated: 2025-01-22
 ---
 
 To format a block of code, surround the code with triple backticks.

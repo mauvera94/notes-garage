@@ -1,8 +1,9 @@
 ---
 title: Footnotes - Obsidian
-created: '2025-47-3'
+created: 2025-47-3
 modification: Wednesday 1st January 2025 18:47:26
-description:
+description: 
+updated: 2025-01-23
 ---
 This is a simple footnote[^1].
 Multiple lines[^2].

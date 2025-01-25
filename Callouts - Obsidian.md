@@ -1,8 +1,9 @@
 ---
 title: Callouts - Obsidian
-created: '2024-18-2'
+created: 2024-18-2
 modification: 2025-01-01 19:07
-description:
+description: 
+updated: 2025-01-22
 ---
 
 ```markdown

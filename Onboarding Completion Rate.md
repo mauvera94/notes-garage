@@ -2,8 +2,9 @@
 title: Onboarding Completion Rate
 created: 2025-36-2
 modification: 2025-36-2 20:36:28
-description:
-aliases:
+description: 
+aliases: 
+updated: 2025-01-22
 ---
 Percentage of users that completed the onboarding process successfully.
 

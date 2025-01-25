@@ -2,7 +2,8 @@
 title: Product Metrics
 created: 2025-48-2
 modification: 2025-48-2 19:48:43
-description:
+description: 
+updated: 2025-01-22
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.

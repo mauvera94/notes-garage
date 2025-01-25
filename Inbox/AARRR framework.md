@@ -2,9 +2,10 @@
 title: AARRR framework
 created: 2025-00-2
 modification: 2025-00-2 20:00:43
-description:
+description: 
 aliases:
-- Pirate metrics
+  - Pirate metrics
+updated: 2025-01-22
 ---
 
 
