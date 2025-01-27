@@ -7,7 +7,7 @@ updated: 2025-01-27
 ---
 In no particular order some of the things that will be the difference between a good and a great PM are:
 - Drives innovation through curiosity and learning
-- Understands that [[Running the fastest only keeps you in the same place, to get somewhere else, you must run at least twice as fast as that]]
+- Understands that [[Running the fastest only keeps you in the same place, to get somewhere else, you must run at least twice as fast as that]] 
 - Understand, calculate and knows how [[§ Product Metrics]] will reflect value
 - Strategic vision for long-term product success
 - Balances short-term wins with long-term strategy and builds foundation for the future
