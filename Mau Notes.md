@@ -19,4 +19,6 @@ Start wherever you’d like! Explore topics or fall into the rabbit hole by clic
 
 ---
 
+[Change log and GitHub vault](https://github.com/mauvera94/notes-garage)
+
 [[Disclaimer|Disclaimers]]
