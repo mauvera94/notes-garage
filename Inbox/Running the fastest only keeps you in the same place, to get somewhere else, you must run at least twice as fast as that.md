@@ -1,11 +1,10 @@
 ---
 title: Running the fastest only keeps you in the same place, to get somewhere else, you must run at least twice as fast as that
 created: 2025-01-24
-updated: 2025-01-24
+updated: 2025-01-27
 description: 
 aliases: 
 ---
-
 
 
 ---

@@ -6,14 +6,15 @@ description:
 aliases: 
 ---
 
-E-commerce conversion rate is a specific application of the general [[Conversion Rate]], referring to the **percentage of visitors to an online store who complete a purchase**. This metric is essential for evaluating the performance of e-commerce sites and is calculated using the following formula:
+E-commerce conversion rate is a specific application of the general [[Overall Product Conversion Rate]], referring to the **percentage of visitors to an online store who complete a purchase**. This metric is essential for evaluating the performance of e-commerce sites and is calculated using the following formula:
 
 >[!formula]
->${E-commerce\ CR\ \%}=\dfrac{Orders}{Website\ visits}$
+>${\text{E-commerce\ CR\ \%}}=\dfrac{Orders}{\text{Website visits}}$
 
 The e-commerce conversion rate is calculated based on *the number of sessions (visits) rather than unique users*. Reporting based on users inflates the conversion rate and misrepresents actual performance.
 
-Ensure the orders and visits are taken from the same time period to maintain accuracy.
+>[!note]
+> Ensure the orders and visits are taken from the same time period to maintain accuracy.
 
 ### Alternative Names
 
@@ -22,5 +23,3 @@ E-commerce conversion rate is also commonly referred to as:
 - Transaction rate
 - Order rate
 
----
-## References

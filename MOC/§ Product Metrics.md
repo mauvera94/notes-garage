@@ -1,7 +1,6 @@
 ---
 title: Product Metrics
 created: 2025-48-2
-modification: 2025-48-2 19:48:43
 description: 
 updated: 2025-01-22
 ---

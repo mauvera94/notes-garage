@@ -1,6 +1,7 @@
 ---
 created: 2025-01-27
 updated: 2025-01-27
+publish: false
 ---
 Welcome to my personal notes repository! These notes reflect my thoughts, ideas, and ongoing experiments in thinking and learning. They are messy, half-formed, and unapologetically unpolished—just like the creative process.
 

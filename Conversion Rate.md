@@ -8,11 +8,7 @@ aliases:
 Conversion rate is the % of visitors  that achieved an specific goal moved form one step (or screen) of your process funnel to the next.
 
 >[!formula]
->${Conversion\ Rate\ \%}=\dfrac{Conversions}{Visitors}$
->
->Conversions = Objective achieved or number of users in the next step of the process
->
->Visitors = Number of users in the current step or total visitors to a site
+>$CR_{step} = \frac{\text{Users Completing Step}}{\text{Users Entering Step}}$
 
 The difference between 100% and your conversion rate is your [[Drop Off Rate]]-the percentage of users who disengage or fail to move forward at that particular stage.
 
