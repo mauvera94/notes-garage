@@ -1,7 +1,7 @@
 ---
 title: Estimating impact overall conversion rate
 created: 2025-01-27
-updated: 2025-01-27
+updated: 2025-01-28
 description: 
 aliases: 
 ---
@@ -41,6 +41,16 @@ $\Delta\text{ Impact (absolute)} = \text{New Overall Conversion Rate} - \text{Or
 Use the new overall conversion rate to estimate total conversions:
 
 $\text{New Total Conversions} = \text{Total Visitors} \times \text{New Overall Conversion Rate}$
+
+>[!attention]
+> This formula is just an **estimation**, changes in cohort or flows most likely will have a significant influence in downstream outcomes, where the overall conversion rate can be impacted.
+> >[!example]- Example: Changing a CTA on the Signup Page
+> >Change: CTA updated from *“Start Free Trial”* to *“Get Started – No Credit Card Required.”*
+> >**Downstream Effects:**
+> >- Higher signup rate – More users sign up due to reduced friction.
+> >- Lower user commitment – Some users may sign up without serious intent.
+> >- Higher drop-off in onboarding – Less engaged users abandon early.
+> >- Trial-to-paid conversion impact – If value isn’t clear, fewer users upgrade.
 
 ### Why Is It Important?
 

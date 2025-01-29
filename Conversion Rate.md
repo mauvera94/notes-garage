@@ -1,7 +1,7 @@
 ---
 title: Conversion Rate
 created: 2025-01-26
-updated: 2025-01-27
+updated: 2025-01-28
 description: 
 aliases: 
 ---
@@ -10,7 +10,11 @@ Conversion rate is the % of visitors  that achieved an specific goal moved form 
 >[!formula]
 >$CR_{step} = \frac{\text{Users Completing Step}}{\text{Users Entering Step}}$
 
-The difference between 100% and your conversion rate is your [[Drop Off Rate]]-the percentage of users who disengage or fail to move forward at that particular stage.
+>[!metric]
+> The difference between 100% and your conversion rate is your [[Drop Off Rate]]-the percentage of users who disengage or fail to move forward at that particular stage.
+
+>[!metric]
+> The [[Overall Product Conversion Rate]] represents the cumulative end-to-end impact of all individual conversion rates across the steps of a product or process.
 
 ### Why is it important?
 

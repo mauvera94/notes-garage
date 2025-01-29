@@ -1,7 +1,7 @@
 ---
 title: Drop Off Rate
 created: 2025-01-27
-updated: 2025-01-27
+updated: 2025-01-28
 description: 
 aliases:
   - Drop-off rate
@@ -15,7 +15,8 @@ Drop-off rate is the % of visitors  that failed an specific goal, dropped from a
 >
 >Visitors = Number of users in the current step or total visitors to a site
 
-The inverse is the [[conversion rate]]-the percentage of users who succeeded to move forward at that particular stage.
+>[!metric]
+> The inverse is the [[conversion rate]]-the percentage of users who succeeded to move forward at that particular stage.
 
 ### Why is it important?
 
@@ -24,6 +25,3 @@ Understanding drop-off rates is critical for several reasons:
 - **Identifying Pain Points**: It helps pinpoint stages in the funnel where users are experiencing friction or disengaging.
 - **Improving User Experience**: By addressing high drop-off rates, you can streamline processes and reduce barriers, leading to a smoother journey for users.
 - **Maximizing Revenue Opportunities**: Reducing drop-off rates can significantly improve conversions and, ultimately, business results.
-
----
-## References

@@ -1,7 +1,7 @@
 ---
 title: Bounce Rate
 created: 2025-01-27
-updated: 2025-01-27
+updated: 2025-01-28
 description: 
 aliases: 
 ---
@@ -22,3 +22,4 @@ A bounce occurs when a visitor:
 #### **Interpreting Bounce Rate**
 - **High bounce rates** may indicate a lack of engagement or relevance. However, for certain types of websites—such as those providing concise information or landing pages with specific calls-to-action—a high bounce rate may not signal a problem.  
 - **Low bounce rates** typically suggest visitors are engaging with multiple pages, indicating a higher level of interest or interaction.
+- Bounce rate is also one kind of the more general [[Drop Off Rate]] where a visitor doesn't continue in the flow after the paged viewed.

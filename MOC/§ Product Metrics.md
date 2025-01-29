@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-01-22
+updated: 2025-01-28
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -89,7 +89,7 @@ Although traditionally [[Business Metrics]] are not required at entry level,to g
 - Total Transaction Value 
 - Operating Cash Flow
 - Revenue
-- Take Rate
+- Take Rate (Variable contribution)
 - ROI
 - EBITDA
 
