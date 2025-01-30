@@ -3,7 +3,7 @@ title: Callouts - Obsidian
 created: 2024-18-2
 modification: 2025-01-01 19:07
 description: 
-updated: 2025-01-22
+updated: 2025-01-29
 ---
 
 ```markdown
@@ -249,4 +249,9 @@ You can nest callouts in multiple levels.
 > [!book]
 > ```markdown
 > >[!book]
+>```
+
+> [!sheets]
+> ```markdown
+> >[!sheets]
 >```
