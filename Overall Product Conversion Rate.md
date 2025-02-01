@@ -1,7 +1,7 @@
 ---
 title: Overall Product Conversion Rate
 created: 2025-01-27
-updated: 2025-01-27
+updated: 2025-01-31
 description: 
 aliases: 
 ---
@@ -21,6 +21,10 @@ The **Overall Product Conversion Rate** measures the percentage of total visitor
 > $CR_{overall} = CR_{step1} \times CR_{step2} \times \dots \times CR_{stepN}$
 > 
 > When calculating the [[Conversion Rate]] of each step
+
+> [!attention]
+> The Individual Step CR method only works when the user journey is linear, if the journey splits an adjusted method must be used:
+> [[Calculating overall product Conversion Rate with split journeys]]
 
 ### Why Is It Important?
 

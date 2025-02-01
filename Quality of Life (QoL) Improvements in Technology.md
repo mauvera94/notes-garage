@@ -49,4 +49,3 @@ The concept of QoL improvements extends beyond software and technology. Other do
 - How to balance QoL improvements with feature development in a resource-constrained environment?
 - Can QoL improvements drive retention and engagement as effectively as new features?
 - What are common usability debt indicators that suggest the need for QoL improvements?
-
