@@ -1,16 +1,31 @@
 ---
 title: Calculating overall product Conversion Rate with split journeys
 created: 2025-01-31
-updated: 2025-01-31
+updated: 2025-02-01
 description: 
 aliases: 
 ---
+
+>[!summary]
+> Each path's conversion rate must be calculated separately and weighted by the proportion of users taking that path.
 
 ## Understanding the Split
 
 When a journey divides into multiple paths (e.g., different user flows, product categories, or actions), calculate the overall conversion rate as a weighted average of the conversion rates of each path.
 
-Each journey consists of step-by-step conversion rates, with users distributing themselves among different paths. 
+Each journey consists of step-by-step conversion rates, with users distributing themselves among different paths:
+
+1. Calculate the [[Conversion Rate]] of each journey individually
+2. Get the proportion of users taking each journey
+3. Weight the CR against the proportion and add them together to get the **Overall conversion rate**
+
+> [!formula] 
+>$CR_{\text{overall}} = \sum_{i=1}^{n} (CR_i \times w_i)$
+>
+>- $CR_{\text{overall}}$  is the overall conversion rate
+>$CR_i  is the conversion rate for path  i
+>- $w_i$  is the proportion of users taking path  i
+> - n  is the total number of paths.
 
 
 ## Example 
@@ -40,11 +55,3 @@ The overall conversion rate accounts for the proportion of users taking each pat
 $CR_{\text{overall}} = (9.6\% \times 60\%) + (10.8\% \times 40\%)$
 
 $CR_{\text{overall}} = 5.76\% + 4.32\% = 10.08\%$
-
-## Key Takeaways
-
-- The overall conversion rate is not a simple multiplication of one set of steps when dealing with multiple journeys.
-- Instead, each path's conversion rate must be calculated separately and weighted by the proportion of users taking that path.
-
----
-## References
