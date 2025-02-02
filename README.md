@@ -13,7 +13,7 @@ Hi, I’m [Mau Vera](https://mauvera.me), and these are my personal notes—well
 - **Connections and Links**: Many notes link to others, creating a web of ideas.
 - **Frequent Updates**: This is a living repository that evolves as I add, refine, or rewrite notes.
 
->[!important] Best Way to Explore
+>[!IMPORTANT] Best Way to Explore
 >The best way to experience these notes is through my published website: [notesgarage.com](https://notesgarage.com). The website provides an intuitive interface for navigating and interacting with the content.
 
 ## What is Obsidian?
