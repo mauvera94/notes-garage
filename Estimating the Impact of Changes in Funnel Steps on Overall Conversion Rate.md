@@ -1,7 +1,7 @@
 ---
 title: Estimating impact overall conversion rate
 created: 2025-01-27
-updated: 2025-01-28
+updated: 2025-02-02
 description: 
 aliases: 
 ---
@@ -26,6 +26,9 @@ $\text{New Conversion Rate at Step } k = \text{Original Conversion Rate at Step 
 Substitute the new conversion rate for the target step into the CR formula:
 
 $\text{New CR}_{overall} = CR_{step1} \times CR_{step2} \times\dots \text{(New) CR}_{stepk} \dots \times CR_{stepN}$
+
+>[!note]- In case a journey splits
+> Remember that if a journey splits you must calculate CR separately and weight by the proportion of users taking that path [[Calculating overall product Conversion Rate with split journeys]]
 
 4. **Determine the Impact**
 - **Absolute Impact**: 
