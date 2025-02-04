@@ -1,7 +1,7 @@
 ---
 title: Drop Off Rate
 created: 2025-01-27
-updated: 2025-01-28
+updated: 2025-02-03
 description: 
 aliases:
   - Drop-off rate
@@ -16,7 +16,7 @@ Drop-off rate is the % of visitors  that failed an specific goal, dropped from a
 >Visitors = Number of users in the current step or total visitors to a site
 
 >[!metric]
-> The inverse is the [[conversion rate]]-the percentage of users who succeeded to move forward at that particular stage.
+> The inverse is the [[Conversion Rate]]-the percentage of users who succeeded to move forward at that particular stage.
 
 ### Why is it important?
 

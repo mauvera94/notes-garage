@@ -1,7 +1,7 @@
 ---
 title: Statistical Significance in A-B Testing
 created: 2025-01-29
-updated: 2025-01-29
+updated: 2025-02-03
 description: 
 aliases:
   - stat sig
@@ -28,7 +28,7 @@ A statistically significant result increases confidence that the change was resp
 	- The confidence level is tied to the p-value threshold:
 		- A 95% confidence level means we set 0.05 (default standard)
 		- A 90% confidence level means we set 0.10
-4. **Calculate the Test Statistic**: Use the Z-test for proportions (eg. when dealing with [[conversion rate]])
+4. **Calculate the Test Statistic**: Use the Z-test for proportions (eg. when dealing with [[Conversion Rate]])
 	>[!code]- Using Python
 	>```python
 	> import statsmodels.api as sm

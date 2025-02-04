@@ -1,11 +1,11 @@
 ---
 title: Estimating impact overall conversion rate
 created: 2025-01-27
-updated: 2025-02-02
+updated: 2025-02-03
 description: 
 aliases: 
 ---
-When a single step in the funnel improves or deteriorates, it has a cascading effect on the [[overall product conversion rate]]. By recalculating the overall conversion rate with the adjusted step, you can estimate the impact of these changes.
+When a single step in the funnel improves or deteriorates, it has a cascading effect on the [[Overall Product Conversion Rate]]. By recalculating the overall conversion rate with the adjusted step, you can estimate the impact of these changes.
 
 ## Steps to Estimate the Impact
 
@@ -17,7 +17,7 @@ $\text{Overall Conversion Rate} = \prod_{i=1}^{N} \text{Conversion Rate at Step 
 
 2. **Apply the Change to the Target Step**
 
-Adjust the [[conversion rate]] of the target step based on the percentage improvement because a [[Conversion Rate Optimization]] strategy or deterioration:
+Adjust the [[Conversion Rate]] of the target step based on the percentage improvement because a [[Conversion Rate Optimization]] strategy or deterioration:
 
 $\text{New Conversion Rate at Step } k = \text{Original Conversion Rate at Step } k \times (1 + \text{Change})$
 
