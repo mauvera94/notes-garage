@@ -1,12 +1,12 @@
 ---
 title: Prioritization of conversion rate improvement
 created: 2025-01-27
-updated: 2025-01-27
+updated: 2025-02-03
 description: 
 aliases: 
 ---
 
-When prioritizing [[Conversion Rate Optimization]] initiatives, focus on addressing the lowest [[Conversion Rate]] or the highest [[Drop Off Rate]] in your funnel first. Targeting these [[bottleneck]] yields the greatest potential impact because even marginal improvements can cascade downstream through subsequent stages, compounding overall performance gains.
+When prioritizing [[Conversion Rate Optimization]] initiatives, **focus on addressing the lowest [[Conversion Rate]]** (or highest [[Drop Off Rate]]) in your funnel first. Targeting these [[bottleneck]] yields the greatest potential impact because even marginal improvements can cascade downstream through subsequent stages, compounding overall performance gains.
 
 This provides significant advantages:
 

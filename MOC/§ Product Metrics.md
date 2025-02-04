@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-01-28
+updated: 2025-02-03
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -51,7 +51,7 @@ You may classify them using the [[AARRR framework]] also known as pirate metrics
 ## Revenue
 [[Revenue]] - can you monetize any of this behavior?
 - [[Average Revenue Per Account (ARPA)]]
-- [[Customer Lifetime Value (CLV/LTV)]]
+- [[Customer Lifetime Value (CLV or LTV)]]
 - [[Customer Profitability]]
 - [[Monthly Recurring Revenue (MRR)]]
 - [[Annual Recurring Revenue (ARR)]]
