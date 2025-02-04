@@ -9,7 +9,7 @@
 *.bin
 *.gz
 *.png
-Chats/New Chat.md
-Clippings/URI or URL Schemes - Leah Ferguson.md
-templates/Note Template.md
-Inbox/Ideas parking lot.md
+Chats/*
+Clippings/*
+templates/*
+Inbox/*
