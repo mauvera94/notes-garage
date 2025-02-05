@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-02-03
+updated: 2025-02-04
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -63,7 +63,7 @@ You may classify them using the [[AARRR framework]] also known as pirate metrics
 
 ## Engagement
 [[Engagement]]
-Not a [[AARRR framework|Pirate metric]] but measuring *Engagement* is one big bucket.
+Not a [[AARRR framework|Pirate metric]] but measuring *Engagement* are some of the main metrics for a PM.
 - [[Daily Active Users (DAU)]]
 - [[Monthly Active Users (MAU)]]
 - [[Stickiness]]

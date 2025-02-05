@@ -1,6 +1,6 @@
 ---
 created: 2025-01-27
-updated: 2025-02-02
+updated: 2025-02-03
 publish: false
 ---
 Welcome to my personal notes repository! These notes reflect my thoughts, ideas, and ongoing experiments in thinking and learning. They are messy, half-formed, and unapologetically unpolished—just like the creative process.
@@ -14,7 +14,7 @@ Hi, I’m [Mau Vera](https://mauvera.me), and these are my personal notes—well
 - **Frequent Updates**: This is a living repository that evolves as I add, refine, or rewrite notes.
 
 >[!IMPORTANT]
->The best way to experience these notes is through my published website: [notesgarage.com](https://notesgarage.com). The website provides an intuitive interface for navigating and interacting with the content.
+>The best way to experience these notes is through my published website: [notesgarage.com](https://notesgarage.com). The website provides an intuitive interface for navigating and interacting with the content (Use desktop for best experience).
 
 ## What is Obsidian?
 This repository is powered by [Obsidian](https://obsidian.md/), a tool that uses plain text Markdown files to organize and link ideas. It’s where I draft, connect, and refine my thoughts before they evolve into more polished content.

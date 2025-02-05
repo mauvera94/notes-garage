@@ -5,7 +5,8 @@ modification: 2025-00-2 20:00:43
 description: 
 aliases:
   - Pirate metrics
-updated: 2025-01-27
+  - pirate metric
+updated: 2025-02-04
 ---
 This framework emphasizes the importance of understanding how users discover a product, their initial experience, continued engagement, willingness to refer others, and the revenue generated.
 
