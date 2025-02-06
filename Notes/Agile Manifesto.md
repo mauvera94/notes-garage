@@ -1,7 +1,7 @@
 ---
 title: Agile Manifesto
 created: 2025-02-4
-updated: 2025-02-04
+updated: 2025-02-05
 description: 
 aliases: 
 ---
@@ -13,9 +13,9 @@ We are **uncovering** better ways of developing software by doing it and helping
 
 ## Values of the Agile Manifesto
 - Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
+- Working software over comprehensive documentation ^2dfe0a
 - Customer collaboration over contract negotiation
-- Responding to change over following a plan
+- Responding to change over following a plan ^8fcfc8
 
 That is, while there is value in the items on the right, we value the items on the left more.
 

@@ -1,7 +1,7 @@
 ---
 title: Customer Lifetime Value (CLV or LTV)
 created: 2025-02-3
-updated: 2025-02-03
+updated: 2025-02-05
 description: 
 aliases:
   - Customer Lifetime Value
@@ -24,7 +24,8 @@ The simplest way to calculate CLV is by summing all earnings from a customer fro
 > [!formula] 
 > $CLV = \text{Average Purchase Value} \times \text{Purchase Frequency} \times \text{Customer Lifespan}$
 
->[!note]- On future cash flow calculation
+
+>[!missing]- On future cash flow calculation
 > Further exploration and formulas are needed to contemplate future cash flows
 
 ### Factors Influencing CLV
