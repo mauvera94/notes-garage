@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-01-27
+updated: 2025-02-06
 ---
 In no particular order some of the things that will be the difference between a good and a great PM are:
 - Drives innovation through curiosity and learning
@@ -59,3 +59,5 @@ In no particular order some of the things that will be the difference between a 
 - Identifies and capitalizes on new opportunities even in risks
 - Advocates for accessibility and inclusion in design
 - Holds themselves accountable for failures and successes
+- Follow up in meetings action items
+- Communicate using smart brevety
