@@ -1,11 +1,11 @@
 ---
 title: Cost Per Click (CPC)
 created: 2025-02-9
-updated: 2025-02-09
+updated: 2025-02-10
 description: 
 aliases: 
 ---
-A key metric in digital advertising that represents the amount an advertiser pays for each click on their ad. It is widely used in search engine marketing and social media advertising to evaluate the cost-effectiveness of campaigns and optimize budgets accordingly.
+A key metric in digital advertising that represents the amount an advertiser pays for each click on their ad (See [[Click-Through Rate (CTR)]]). It is widely used in search engine marketing and social media advertising to evaluate the cost-effectiveness of campaigns and optimize budgets accordingly.
 
 ### Importance of CPC
 

@@ -1,7 +1,7 @@
 ---
 title: Customer Acquisition Cost (CAC)
 created: 2025-02-3
-updated: 2025-02-03
+updated: 2025-02-10
 description: 
 aliases:
   - CAC
@@ -16,7 +16,7 @@ Customer Acquisition Cost (CAC) measures the total cost a company incurs to acqu
 > $\text{CAC} = \frac{\text{Total Acquisition Expenses}}{\text{Number of New Customers}}$
 > - Acquisition Expenses:
 > 	- *Simplified*: Marketing and sales cost for acquiring customers (not regular customers)
-> 	- *Complex method*: Marketing cost for acquiring customers + Wages connected with sales and marketing + Software cost (Eg. CRM, A/B-testing, analytics...)+ Additional professional services (Designer, consultants...) + Any other expense related to Acquisition efforts
+> 	- *Complex method* (Sometimes referred as *Cost Per Acquisition (CPA)*): Marketing cost for acquiring customers + Wages connected with sales and marketing + Software cost (Eg. CRM, A/B-testing, analytics...)+ Additional professional services (Designer, consultants...) + Any other expense related to Acquisition efforts
 
 ### Why CAC Matters
 CAC helps businesses understand **how much they are spending to gain new customers**. A high CAC may indicate inefficiencies in marketing or sales efforts, whereas a low CAC suggests an effective acquisition strategy.

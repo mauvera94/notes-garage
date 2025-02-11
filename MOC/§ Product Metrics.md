@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-02-04
+updated: 2025-02-10
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -15,7 +15,7 @@ You may classify them using the [[AARRR framework]] also known as pirate metrics
 - [[Bounce Rate]]
 - [[Customer Acquisition Cost (CAC)]]
 - [[Cost Per Click (CPC)]]
-- [[Click-Through Rate]]
+- [[Click-Through Rate (CTR)]]
 - [[Traffic Source Distribution]]
 %% - [[Cost Per Acquisition (CPA)]] %%
 %% - [[Channel Effectiveness]] %%
