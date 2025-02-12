@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-10
+updated: 2025-02-11
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:
@@ -34,7 +34,12 @@ In no particular order some of the things that will be the difference between a 
 - Proactively handles changing priorities
 - **Knows when to say no** to distractions or scope creep
 - Knows how to say no in a positive way
+- Pushes back on unvalidated or pet projects (Even from leadership)
 - Follow up in meetings action items
+- Balances planning with execution
+- Anticipates mistakes in the paper, during the planning
+- Understands the difference between [[Deep Work vs Shallow Work]]
+- Blocks distractions and leaves time for [[deep work]]
 
 ## Communication & Influence
 - **Builds trust and credibility** with stakeholders
@@ -43,15 +48,19 @@ In no particular order some of the things that will be the difference between a 
 - Masters **storytelling** to gain buy-in, [[Story is always king]]
 - **Clearly communicate the "Why?"** behind the requests
 - **Communicate using smart brevity**
-- Good presentation skills
+- Has good presentation skills
 - **Asks thoughtful, impactful questions**
+- Document just enough to bring their point across
+- Leverages documentation for effective asynchronous communication
+- Gives visibility to all the internal teams that may be interested or affected in an initiative
 
 ## User-Centric Approach
-- **Deep user empathy and understanding**
+- **Deep user empathy and understanding**, behind every user there is a person using your product
 - **Creates products that delight users, not just work or ego cuddling**
 - Understands the *“why”* behind user behavior
 - **Challenges with "Why?"**
-- - Knows by heart *why* decisions were made and **the purpose of every element** in their product
+- Knows by heart *why* decisions were made and **the purpose of every element** in their product
+- Challenges risk mitigation asks (Legal, security...) and knows when to accept them
 - **Seeks user feedback beyond surface-level insights** ([[Survivorship bias]])
 - **Advocates for accessibility and inclusion** in design
 - Knows that behind ever story and support interaction there is an insight in the raw
@@ -72,10 +81,14 @@ In no particular order some of the things that will be the difference between a 
 - Encourages experimentation and learning
 - **Drives innovation through curiosity and learning**
 - Understands that [[Running the fastest only keeps you in the same place, to get somewhere else, you must run at least twice as fast as that]] 
+- Is able to change opinion when facts are presented
+- Challenges and balances last minute changes with [[opportunity cost]]
 
 ## Technical Acumen
 - **Builds strong technical credibility** and understands the technical requirements without being the expert
 - Give space, clear definitions, and trust the experts in their field to deliver solutions
+- Understands and can point to gaps in the deliverables
+- Knows that [[Product Documentation is a Map not the Territory]]
 
 ## Feedback & Continuous Improvement
 - **Provide effective and timely feedback**

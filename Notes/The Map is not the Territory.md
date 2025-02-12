@@ -1,7 +1,7 @@
 ---
 title: The map is not the territory
 created: 2025-02-5
-updated: 2025-02-05
+updated: 2025-02-11
 description: 
 aliases: 
 ---
@@ -21,7 +21,7 @@ This [[§ Mental Models|Mental Model]] emphasizes the **distinction between repr
 
 - [[Project Plans and Roadmaps as Map not the Territory]]
 - [[Business Strategy as Map not the Territory]]
-- [[Product Documentation as Map not the Territory]]
+- [[Product Documentation is a Map not the Territory]]
 
 ---
 ## References
