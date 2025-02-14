@@ -3,11 +3,12 @@ title: Meeting business goals by reorganizing the org
 created: 2025-02-12
 updated: 2025-02-12
 description: 
-aliases: 
+aliases:
+  - reorgs
 ---
 
 
-Organizations often undergo restructuring as a response to business challenges. Leaders initiate reorgs to solve pain points such as missed goals, misaligned teams, underperforming leadership, or imbalanced resources. From a leadership perspective, a reorg is an attempt to realign the organization with strategic objectives, even if the changes may not immediately make sense to employees.
+Organizations often undergo restructuring as **a response to business challenges**. Leaders initiate reorgs to solve pain points such as missed goals, misaligned teams, underperforming leadership, imbalanced resources... From a leadership perspective, **a reorg is an attempt to realign the organization with strategic objectives**, even if the changes may not immediately make sense to employees.
 
 ## Key Considerations in Organizational Reorganizations
 

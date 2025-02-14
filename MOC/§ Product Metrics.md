@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-02-10
+updated: 2025-02-13
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -44,7 +44,7 @@ You may classify them using the [[AARRR framework]] also known as pirate metrics
 ## Referrals
 [[Referrals]] - do they like it enough to tell their friends?
 - [[Virality Coefficient]]
-- [[Customer Referral Rate]]
+- [[Customer Referral Rate (CRR)]]
 - [[Referral Conversion Rate]]
 - [[Net Promoter Score (NPS)]]
 
