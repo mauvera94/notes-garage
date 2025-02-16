@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-11
+updated: 2025-02-15
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:
@@ -13,6 +13,7 @@ In no particular order some of the things that will be the difference between a 
 - Balances short-term wins with long-term strategy and builds foundation for the future
 - Focuses on **outcomes**, not just **outputs**
 - **Fall in love with the problem, not the solution**
+- Clearly understands (and challenges) the problem trying to solve
 - **Balances user needs with business goals**
 - Balances innovation with pragmatic execution
 - Anticipate market trends
