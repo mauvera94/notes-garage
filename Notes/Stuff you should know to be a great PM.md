@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-15
+updated: 2025-02-18
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:
@@ -32,11 +32,13 @@ In no particular order some of the things that will be the difference between a 
 - **Balances bugs and technical debt with new features**
 - Crafts a clear and **actionable roadmap**
 - **Anticipates, mitigates, and adjusts for dependencies**
+- Has regular checkpoints with stakeholders
+- After every meeting clears up **what they decided, next steps and who should be informed?**
+- Follow up in meetings action items
 - Proactively handles changing priorities
 - **Knows when to say no** to distractions or scope creep
 - Knows how to say no in a positive way
 - Pushes back on unvalidated or pet projects (Even from leadership)
-- Follow up in meetings action items
 - Balances planning with execution
 - Anticipates mistakes in the paper, during the planning
 - Understands the difference between [[Deep Work vs Shallow Work]]

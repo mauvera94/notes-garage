@@ -1,7 +1,7 @@
 ---
 title: Structured Product Checkpoints
 created: 2025-02-11
-updated: 2025-02-17
+updated: 2025-02-18
 description: 
 aliases: 
 ---
@@ -21,6 +21,7 @@ Product, Data, Ops, and Key Stakeholders
 - What problem are we solving?  
 - Who is the target audience?  
 - Initial thoughts on potential solutions  
+- What metrics is it improving?
 
 ### Outcome:  
 Agreement on whether to proceed, refine, or pivot.  
@@ -33,6 +34,7 @@ Agreement on whether to proceed, refine, or pivot.
 ### Key Inputs:  
 - Technical feasibility assessment  
 - Resource and timeline estimates  
+- Dependencies identification
 - Prioritization frameworks (e.g., RICE, impact/effort analysis)  
 
 ### Participants:  
@@ -42,6 +44,7 @@ Product, Engineering, UX, Ops, Legal
 - What are the risks and unknowns?  
 - What trade-offs are we making?  
 - What data do we need before proceeding?  
+- What is the expected impact?
 
 ### Outcome:  
 A refined product brief with problem statement, hypotheses, and an early solution outline.  
