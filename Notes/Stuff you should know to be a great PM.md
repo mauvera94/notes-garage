@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-18
+updated: 2025-02-21
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:
@@ -61,6 +61,7 @@ In no particular order some of the things that will be the difference between a 
 - **Deep user empathy and understanding**, behind every user there is a person using your product
 - **Creates products that delight users, not just work or ego cuddling**
 - Understands the *“why”* behind user behavior
+- [[Understanding the "Why" Behind Feature Requests]]
 - **Challenges with "Why?"**
 - Knows by heart *why* decisions were made and **the purpose of every element** in their product
 - Challenges risk mitigation asks (Legal, security...) and knows when to accept them
