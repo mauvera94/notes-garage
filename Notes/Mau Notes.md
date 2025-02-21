@@ -1,7 +1,7 @@
 ---
 title: Mau Notes
 created: 2024-11-12
-updated: 2025-02-10
+updated: 2025-02-20
 description: Publish home site
 ---
 
@@ -10,7 +10,7 @@ Welcome! I'm [Mau Vera](https://mauvera.me), and you've stumbled upon my working
 
 ## Where to begin?
 
-Start wherever you’d like! Explore topics or fall into the rabbit hole by clicking on random note links (Make sure to *checkout the backlinks at the end of each note*). Alternatively, you can begin with these areas of interest, here are a few of my favorites:
+Start wherever you’d like! Explore topics or fall into the rabbit hole by clicking on random note links (Make sure to *checkout the backlinks in the "Links to this page" section at the end of each note*). Alternatively, you can begin with these areas of interest, here are a few of my favorites:
 
 - [[§ Product Management]]
 - [[§ Product Metrics]]

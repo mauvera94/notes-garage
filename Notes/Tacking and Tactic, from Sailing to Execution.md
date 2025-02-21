@@ -1,7 +1,7 @@
 ---
 title: Tacking and Tactic, from Sailing to Execution
 created: 2025-02-5
-updated: 2025-02-19
+updated: 2025-02-20
 description: 
 aliases: 
 ---
@@ -26,7 +26,7 @@ Both concepts emphasize adaptability and calculated actions to reach a desired o
 
 Just as [Edward Sewall” rounding of the Cape Horn](https://www.sail-world.com/Australia/Tales-Of-The-Notorious-Cape/-5244) changed direction to achieve a goal; it took 67 days to make this crossing instead of the estimated 10.
 
-![[Pasted image 20250205204458.png]]
+![[Siling accross the horn.png]]
  
 ---
 ## References
