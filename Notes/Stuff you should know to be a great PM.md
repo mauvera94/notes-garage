@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-21
+updated: 2025-02-22
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:
@@ -21,6 +21,7 @@ In no particular order some of the things that will be the difference between a 
 
 ## Data & Decision-Making
 - Understand, calculate and knows how [[§ Product Metrics]] will reflect value
+- Champions and prioritizes actionable metrics over [[Vanity metrics- Misleading Indicators of Success]]
 - **Balances intuition and data** in decision-making
 - Analyzes data and gets insights
 - Knows the **difference between anecdotal data and a trend**
