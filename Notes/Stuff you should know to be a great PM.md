@@ -3,7 +3,7 @@ title: Stuff you should know to be a good PM
 created: 2025-01-22
 description: 
 aliases: 
-updated: 2025-02-22
+updated: 2025-02-23
 ---
 
 In no particular order some of the things that will be the difference between a good and a great PM are:

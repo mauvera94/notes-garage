@@ -1,7 +1,7 @@
 ---
 title: Customer Lifetime Value (CLV or LTV)
 created: 2025-02-3
-updated: 2025-02-05
+updated: 2025-02-23
 description: 
 aliases:
   - Customer Lifetime Value
@@ -42,7 +42,7 @@ The simplest way to calculate CLV is by summing all earnings from a customer fro
 
 - Increase purchase frequency through loyalty programs, subscriptions, or engagement campaigns.
 - Increase the average order value by upselling or offering higher-value products.
-- Enhance customer retention by improving satisfaction and reducing [[churn rate]].
+- Enhance customer retention by improving satisfaction and reducing [[Churn Rate]].
 
 ### CLV and [[Customer Acquisition Cost (CAC)]]
 

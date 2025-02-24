@@ -2,10 +2,13 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-02-13
+updated: 2025-02-23
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
+
+>[!attention]
+> Be always on the look out when any of the product metrics turns into [[Vanity metrics- Misleading Indicators of Success]], which create the illusion of success but provide little to no actionable insight for decision-making or are not tied to the success of a product or company
 
 You may classify them using the [[AARRR framework]] also known as pirate metrics:
 
