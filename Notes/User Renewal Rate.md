@@ -1,7 +1,7 @@
 ---
 title: User Renewal Rate
 created: 2025-02-25
-updated: 2025-02-25
+updated: 2025-02-26
 description: 
 aliases: 
 ---
@@ -40,3 +40,4 @@ Alternatively, it can be understood as the inverse of the cancellation rate ([[c
 >[!missing]- Predictable revenue
 > Forecasting future revenue with predictable subscriptions
 > Predictive analytics help improve renewal forecasting?
+> How it relates to Monthly Recurring Revenue (MRR) and Anual Recurring Revenue (ARR)
