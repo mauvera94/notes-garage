@@ -1,7 +1,7 @@
 ---
 title: Virality Coefficient
 created: 2025-02-15
-updated: 2025-02-15
+updated: 2025-02-27
 description: 
 aliases: 
 ---
@@ -26,4 +26,4 @@ aliases:
 - **Crossing the Chasm**: A high VC helps move from early adopters to mainstream users.
 - **Social Networks**: Growth depends on network effects, where more users increase value.
 - **Pinwheel Effects**: Virality sustains momentum, reinforcing continuous user engagement.
-- **Sustainable Growth**: Unlike paid acquisition, a high VC enables long-term, cost-effective expansion.
+- **[[Sustainable Growth]]**: Unlike paid acquisition, a high VC enables long-term, cost-effective expansion.
