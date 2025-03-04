@@ -3,7 +3,8 @@ title: User Satisfaction (CSAT)
 created: 2025-02-28
 updated: 2025-02-28
 description: 
-aliases: 
+aliases:
+  - CSAT
 ---
 >[!attention]
 > CSAT is a **highly subjective metric** that provides a snapshot of satisfaction for a specific cohort at a given time. It is influenced by biases, extreme responses, and survey participation patterns. As a result, it should be taken with a grain of salt and not be the sole indicator of customer experience or improvement success.

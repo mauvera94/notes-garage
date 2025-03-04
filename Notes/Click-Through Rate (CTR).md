@@ -1,7 +1,7 @@
 ---
 title: Click-Through Rate
 created: 2025-02-10
-updated: 2025-02-10
+updated: 2025-03-03
 description: 
 aliases:
   - CTR
@@ -31,4 +31,4 @@ Several elements *impact CTR*, including:
 - Ensure audience targeting is precise
 - Improve landing page experience
 
-[^1]: Another particular implementationof [[Conversion Rate]]
+[^1]: Another particular implementation of [[Conversion Rate]]
