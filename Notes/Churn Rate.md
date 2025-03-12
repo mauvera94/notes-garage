@@ -1,7 +1,7 @@
 ---
 title: Churn Rate
 created: 2025-02-23
-updated: 2025-02-23
+updated: 2025-03-11
 description: 
 aliases:
   - Churn
@@ -18,16 +18,18 @@ The percentage of users who stop using a product or service within a specific ti
 
 
 ## Types & Causes of Churn
-1. **Voluntary Churn** – Users actively choose to leave due to:
-   - Poor user experience
-   - Frustration with the product
-   - Inadequate customer support
-   - Bugs or performance issues
-   - Price increases or better alternatives
+1. **Voluntary Churn** – Users actively choose to leave due to:  ^35a7a9
+	- Poor user experience and usability issues.
+	- Frustration due to performance issues or bugs.
+	- Inadequate customer support and responsiveness.
+	- Lack of innovation, missing features, or poor product-market fit.
+	- Competitive alternatives offering better value.
+	- Pricing adjustments that reduce perceived affordability.
 
 2. **Involuntary Churn** – Users unintentionally stop using the product due to:
-   - Failed payments (e.g., expired credit cards)
-   - Temporary inactivity
+	- Failed payments (e.g., expired credit cards)
+	- Temporary inactivity
+	- Seasonalities
 
 ## Reducing Churn
 ### Short-term Tactics
