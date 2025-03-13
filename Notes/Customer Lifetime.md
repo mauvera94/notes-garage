@@ -12,7 +12,7 @@ Customer Lifetime refers to **the average duration a customer remains actively e
 Understanding customer lifetime helps businesses:
 - Predict when users are likely to disengage and proactively address churn.
 - Develop retention strategies to extend customer engagement.
-- Maximize [[Customer Lifetime Value (LTV)]] by keeping users engaged longer.
+- Maximize [[Customer Lifetime Value (CLV or LTV)]] by keeping users engaged longer.
 - Allocate marketing and support resources efficiently.
 
 ## Factors Influencing Customer Lifetime

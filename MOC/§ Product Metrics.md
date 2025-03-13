@@ -2,7 +2,7 @@
 title: Product Metrics
 created: 2025-48-2
 description: 
-updated: 2025-02-23
+updated: 2025-03-12
 ---
 
 One of the most important (If not the *most important*) skills a PM must have is an understanding of the product metrics. Most companies have their own and some may be variations on industry standards but some of this will show up in most initiatives and cases.
@@ -52,6 +52,9 @@ You may classify them using the [[AARRR framework]] also known as pirate metrics
 - [[Net Promoter Score (NPS)]]
 
 ## Revenue
+
+^a907fa
+
 [[Revenue]] - can you monetize any of this behavior?
 - [[Average Revenue Per Account (ARPA)]]
 - [[Customer Lifetime Value (CLV or LTV)]]
@@ -88,7 +91,7 @@ Given most technology companies implement an [[Agile]] framework, [[Agile Metric
 - [[Velocity]]
 
 ## Business Metrics
-Although traditionally [[Business Metrics]] are not required at entry level,to grow as a PM one must understood the impact their Product has on their business.
+Although traditionally [[Business Metrics]] are not required at entry level, to grow as a PM one must understood the impact their Product has on their business (Somewhat related to [[#^a907fa|Revenue Metrics]].
 - Total Transaction Value 
 - Operating Cash Flow
 - Revenue
